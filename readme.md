@@ -9,11 +9,31 @@
 
 
 <h3 align="center">💻 Tech Stack</h3>
-<p align="center" > <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" width="50" alt="javascript logo"  />
+  <img width="9"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" width="50" alt="typescript logo"  />
+  <img width="9" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"height="50" width="50" alt="react logo"  />
+  <img width="9" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" width="50"" alt="html5 logo"  />
+  <img width="9" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" width="50"alt="css3 logo"  />
+  <img width="9" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"height="50" width="50" alt="git logo"  />
+  <img width="9" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" width="50" alt="github logo"  />
+  <img width="9" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="50" width="50" alt="redux logo"  />
+  <img width="9" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="50" width="50" alt="tailwindcss logo"  />
+    <img width="9" />
 
-<div>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nikacucqiridze&" alt="nikacucqiridze" /></p>
-<p><img align="rigth" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikacucqiridze&show_icons=true&locale=en&layout=compact" alt="nikacucqiridze" /></p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" width="50" alt="nextjs logo"  />
+  
 </div>
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nikacucqiridze&" alt="nikacucqiridze" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikacucqiridze&show_icons=true&locale=en&layout=compact" alt="nikacucqiridze" /></p>
 
 
