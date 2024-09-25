@@ -38,4 +38,3 @@
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nikacucqiridze&" alt="nikacucqiridze" /></p>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikacucqiridze&show_icons=true&locale=en&layout=compact" alt="nikacucqiridze" /></p>
 
-![snake gif](https://github.com/Nikoloz-tsutskiridze/Nikoloz-tsutskiridze/blob/output/github-contribution-grid-snake.gif)
