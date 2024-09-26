@@ -29,12 +29,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="50" width="50" alt="redux logo"  />
   <img width="9" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="50" width="50" alt="tailwindcss logo"  />
-    <img width="9" />
-
+  <img width="9" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" width="50" alt="nextjs logo"  />
-  
 </div>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nikacucqiridze&" alt="nikacucqiridze" /></p>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikacucqiridze&show_icons=true&locale=en&layout=compact" alt="nikacucqiridze" /></p>
+
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Nikoloz-tsutskiridze&" alt="nikacucqiridze" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nikoloz-tsutskiridze&show_icons=true&locale=en&layout=compact" alt="nikacucqiridze" /></p>
 
